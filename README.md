@@ -1,4 +1,4 @@
-Learning C# 
+Learning C#, C, Java, and 6502
 
 Phoenixxdev on Discord
 
